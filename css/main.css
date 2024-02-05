@@ -1,0 +1,66 @@
+/*
+  Varad Krishna Sudhakaran
+  Student Number: 8979562 
+*/
+
+body{
+    font: 13px georgia;
+    background-color: hsla(0, 0%, 46%, 0.452);
+    width: 80%;
+    max-width: max-content;
+    margin: auto;
+    padding: auto;
+}
+.easy {
+    border: 4px black solid;
+    padding: 8px;
+    border-radius: 20px;
+    margin: 8px;
+    clear:both;
+}
+h1, h2{
+   color: rgb(95, 95, 95);
+   font-variant: small-caps;
+}
+footer p{
+    font-size: 10px;
+    color: rgb(255, 0, 0);
+}
+main{
+    float: left;
+    margin:auto;
+    padding:20px;
+    width: 55%;
+
+}
+aside {
+    float: right;
+    margin: auto;
+    padding: 20px;
+    width: 34.5%;
+}
+.mainimg{
+    border: 6px black solid;
+}
+figcaption{
+    font-weight: 400;
+    font-variant: small-caps;
+}
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: large;
+}
+ul li {
+    list-style-type: none;
+    line-height: 30px;
+}
+ul>li>a{
+    text-decoration: none;
+    color: rgb(47, 0, 255);
+}
+aside a:hover{
+    color:rgb(0, 0, 0) 
+}
+
+
